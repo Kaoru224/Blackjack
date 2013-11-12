@@ -18,7 +18,7 @@ public class Card {
 		this.cardValue = cardValue;
 	}
 
-	public int suit() {
+	public String suit() {
 		return suit();
 	}
 
