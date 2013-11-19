@@ -1,7 +1,7 @@
 public class Card {
-	private int cardValue;
-	private String suit;
-	private Boolean faceUp;
+	public int cardValue;
+	public String suit;
+	public Boolean faceUp;
 
 
 
