@@ -1,0 +1,9 @@
+1. I have the two decks printed out on screen. I couldn't figure out how to go any farther, keeping the decks in the panels, drawing hands, basically all it does is print decks.
+2. Well, the deck shuffles really well. Like, really well. It doesn't stop shuffling. Ever. I can just call it real time shuffle and make it a feature, right?
+3. Classes allow you to re-use code you would use multiple times. For example, if you wanted a crowd of people, you could just make one person class, and have lines making all the seperate people. Classes just open up a lot more things, and gives another way to orginize code.
+4. A private variable/method can only be acsessed in the class it was defined in. For example, in my deck method, if I tried to call on "Suit" from my card class, it wouldn't work. Public variables/methods can be called on from anywhere in the code, as long as it's in the same folder.
+5. A full on class gives you acsess to objects. A class also is created when you compile code. An instance is a line of code that only works on that class, and is defined before any main code (like before main).
+6. Inheratince allows you to group multiple objects into one. For example, if you were to go make a barn, you wouldn't have to re-write code for every animal object. Instead, you can use the super command, and your specific animal uses code from the parent class. It's kind of like a core for other objects.
+7. This is used to add things to the class. For example, if you had a panel, you would have to add it using this.add, this reffering to the main class. Super is used to call on a parent class, copying the code.
+8. Behavior and Constructor (I don't remember the name exactly). All objects need a way to be created, and then the thing it does. 
+9. How do I panel oh god. To be honest, Objects aren't confusing. It's the actual printing of the cards and stuff that got me. Especially panels. I need to work on GUI.
