@@ -1,9 +1,8 @@
 public class Card {
 	public int cardValue;
-	public String suit;
-	public Boolean faceUp;
+	public String suit;	
 
-
+	//I forgot this file existed. I didn't touch it past first day.
 
 	public Card(int cardValue, String suit) {
 		setCardValue(cardValue);

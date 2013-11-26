@@ -8,6 +8,8 @@ public class HandPanel extends JPanel implements ActionListener {
 	private String player;
 	private JLabel playerName;
 
+	//tried to make this a parent object with two child objects for each hand. Then I realized I could just use this. So this is the hand panels.
+
 	public HandPanel(String player) {
 		super();
 

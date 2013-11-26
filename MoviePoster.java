@@ -7,6 +7,8 @@ import java.io.IOException;
 
 import javax.imageio.ImageIO;
 
+//I did't write this.
+
 public class MoviePoster {
 	
 	private String name;
